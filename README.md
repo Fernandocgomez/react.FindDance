@@ -1,0 +1,3 @@
+FindDance
+
+This is a web app designed to help dancers and people interested in dancing to find nearby social dancing events. The app was built based on the same concept of Trivago and Expedia. In seconds, the app will scan and scrap EventBrite, Groupon and MeetUp to gather all the best social dancing on the USA. Built using popular technologies such as: React, HTML, CSS and Bootstrap for the front-end and Ruby on rails, SQLite, Nokogiri for the back-end.
