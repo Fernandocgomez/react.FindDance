@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  description: MyString
+  date: MyString
+  time: MyString
+  location: MyString
+  dancing_type: MyString
+  cost: MyString
+  img: MyString
+  organizer: MyString
+
+two:
+  title: MyString
+  description: MyString
+  date: MyString
+  time: MyString
+  location: MyString
+  dancing_type: MyString
+  cost: MyString
+  img: MyString
+  organizer: MyString
