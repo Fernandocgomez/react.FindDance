@@ -10,7 +10,6 @@ FindDance was built using popular technologies such as:
 - XHTML
 - HTML
 - CSS
-- Bootstrap
 
 **Back-End**
 - Ruby On Rails
