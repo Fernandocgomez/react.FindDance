@@ -42,6 +42,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "active_model_serializers", "~> 0.10.7"
 gem "jwt", "~> 2.1"
 gem 'rest-client'
-gem 'nokogiri', '~> 1.6', '>= 1.6.8'
+gem 'nokogiri', '~> 1.11'
 gem 'pry', '~> 0.12.2'
 gem 'open_uri_redirections'
